@@ -9,6 +9,7 @@
 
   - JavaScript
   - Node.js
+  - IndexedDB
   - MongoDB
   - Express
   - Mongoose
