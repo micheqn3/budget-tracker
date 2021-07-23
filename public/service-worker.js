@@ -1,0 +1,1 @@
+/* Handles the service worker and caching for offline use */

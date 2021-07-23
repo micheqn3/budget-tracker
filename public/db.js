@@ -1,1 +1,1 @@
-/* IndexedDB script */
+/* IndexedDB script handles saving transactions when fetch request fails or device is offline */
