@@ -11,7 +11,7 @@ const FILES_TO_CACHE = [
   '/db.js',
   '/styles.css',
   '/icons/icon-192x192.png',
-  // insert all resized icons, manifest, bundles
+  '/icons/icon-512x512.png'
 ];
 
 // Install and register service worker
