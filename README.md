@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Budget Tracker
 
-A PWA application that allows the user to track their personal finances. This application is: 
+A PWA application that allows the user to track their personal finances. This application allows the user to:
 
-- Available for online and offline use. When brought back online, the records will be saved to the MongoDB database.
 - Enter deposits and expenses 
 - View total spending over time
+- Available for online and offline use. When brought back online, the records will be saved to the MongoDB database.
 
 ### Link to deployed application
 
