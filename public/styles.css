@@ -1,6 +1,8 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  background-repeat: no-repeat;
+  color: #0a7e8c;
+  background-color: rgba(255, 255, 255, 0.5); 
 }
 
 button, input {
@@ -8,8 +10,16 @@ button, input {
   font-family: Arial;
 }
 
+input {
+  text-align: center;
+}
+
 table {
   width: 100%;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
 
 td, th {
@@ -18,8 +28,8 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
+th {
+  text-transform: uppercase;
 }
 
 .error {
@@ -33,8 +43,9 @@ tr:nth-child(even) {
 }
 
 .total {
-  font-size: 150%;
-  text-decoration: underline;
+  font-size: 140%;
+  text-transform: uppercase;
+  margin-top: 5%;
 }
 
 .form {
