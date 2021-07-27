@@ -37,7 +37,11 @@ https://progressive-budget-micheqn3.herokuapp.com/
   - Lite-server
   - Compression
 
-### Screenshots of pages
+### Screenshot
+
+Home Page
+:-------------------------:
+![Home page](/Assets/budget-screenshot.png)
 
 ### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
