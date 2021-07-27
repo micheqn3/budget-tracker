@@ -41,7 +41,7 @@ https://progressive-budget-micheqn3.herokuapp.com/
 
 Home Page
 :-------------------------:
-![Home page](/Assets/budget-screenshot.png)
+![Home page](/Assets/app-screenshot.png)
 
 ### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
